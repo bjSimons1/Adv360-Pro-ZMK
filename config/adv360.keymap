@@ -102,9 +102,9 @@
             bindings = <
 &trans  &trans     &trans    &trans    &trans     &trans  &trans                                              &trans            &trans  &trans          &trans             &trans           &trans      &trans
 &trans  &trans     &trans    &trans    &trans     &trans  &trans                                              &trans            &trans  &trans          &trans             &trans           &trans      &trans
-&trans  &kp LCTRL  &kp LALT  &kp LGUI  &kp LSHFT  &trans  &trans  &trans  &trans      &trans      &trans      &trans            &trans  &kp K_PREVIOUS  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_NEXT  &trans
+&trans  &kp LCTRL  &kp LALT  &kp LGUI  &kp LSHFT  &trans  &trans  &trans  &trans      &trans      &trans      &trans            &trans  &kp K_PREVIOUS  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp K_NEXT  &trans
 &trans  &trans     &trans    &trans    &trans     &trans                  &trans      &trans                                    &trans  &trans          &trans             &trans           &trans      &trans
-&trans  &trans     &trans    &trans    &trans             &trans  &trans  &trans      &kp K_STOP  &kp K_MUTE  &kp C_PLAY_PAUSE          &trans          &trans             &trans           &trans      &trans
+&trans  &trans     &trans    &trans    &trans             &trans  &trans  &trans      &kp K_STOP  &kp K_MUTE  &kp K_PLAY_PAUSE          &trans          &trans             &trans           &trans      &trans
             >;
         };
 
